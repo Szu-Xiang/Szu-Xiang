@@ -12,9 +12,9 @@
 
 📮 My Email Address：szughx@outlook.com
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Szu-Xiang)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Szu-Xiang&show_icons=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Szu-Xiang)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Szu-Xiang&show_icons=true&theme=dracula)
 
 
 
