@@ -13,7 +13,9 @@
 
 📮 My Email Address：szughx@outlook.com
 
-![](https://img.shields.io/badge/PayPal-%E5%90%91%E6%88%91%E4%BB%98%E6%AC%BE-orange)
+![](https://img.shields.io/badge/PayPal-%E5%90%91%E6%88%91%E4%BB%98%E6%AC%BE-orange)  https://paypal.me/HarrisonGou?country.x=US&locale.x=zh_XC
+
+
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Szu-Xiang&show_icons=true&theme=tokyonight)
