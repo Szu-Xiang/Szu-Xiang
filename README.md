@@ -13,7 +13,7 @@
 
 🦌 Already captured～🥰
 
-🔧 Java世界第一！！（因为我只会这个🤫）
+🔧 Java世界第一！！
 
 📮 My Email Address：szughx@outlook.com
 
