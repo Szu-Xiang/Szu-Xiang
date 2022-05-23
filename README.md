@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌍In this world, anything may deceive you🤯, but code will never🤨.
+🌍In this world, anything may deceive you, but code will never🤨.
 
 ****
 
